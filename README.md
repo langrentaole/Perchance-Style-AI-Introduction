@@ -1,6 +1,6 @@
-# Perchance AI - 免费AI创作平台
+# [Perchance AI](https://perchancestyle.com/) - 免费AI创作平台
 ## 🌟 概述
-[Perchance AI](https://perchancestyle.com/) 是一个全方位的 AI 创作平台，集成了智能对话、图像生成、角色扮演和故事创作等功能。我们提供免费、直观的工具，帮助用户将创意转化为现实。
+Perchance AI 是一个全方位的 AI 创作平台，集成了智能对话、图像生成、角色扮演和故事创作等功能。我们提供免费、直观的工具，帮助用户将创意转化为现实。
 
 ## 🚀 核心功能
 ### 1. AI 对话系统
